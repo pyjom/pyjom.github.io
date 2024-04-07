@@ -12,5 +12,4 @@ I graduated from the [Polytechnic University of the Philippines](https://www.pup
 
 In my free time, I play volleyball & chess with my brothers, watched international volleyball, and ride my bike. 
 
-![mt daraitan](/assets/lib/img/personal/IMG_7540.jpg){: w="500" h="300" }
-_Me at the top of [Mount Daraitan](https://peakery.com/mount-daraitan-philippines/), Rizal, Philippines_
+Thanks!
